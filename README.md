@@ -6,6 +6,7 @@ To quantify the stream of data recorsing the x-y coordinates of the user. That w
 Eye movement is the real-time input medium for humancomputer communication, which is very important for people with physical disability. 
 We shall be using eye tracking primarily for mouse controlling. Our goal is to achieve basic mouse activity and traversal just by using eye movements. It includes, Scrolling, Cursor Traversal and Clicking (Left and right).
 # Components:
+
 Python
 OpenCV
 NumPy
