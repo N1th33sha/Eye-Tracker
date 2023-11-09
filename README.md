@@ -8,6 +8,9 @@ We shall be using eye tracking primarily for mouse controlling. Our goal is to a
 # Components:
 
 Python
+
 OpenCV
+
 NumPy
+
 Webcam
